@@ -1,8 +1,3 @@
-可以，README 建议写得**简洁正式**，主要说明这是 independent study repo，包含 presentation、final report、code/config，不上传 TxDOT 原始数据。
-
-你可以直接把下面内容复制到 GitHub 的 `README.md`。
-
-````markdown
 # Independent Study: Intensity–Range Multimodal Pavement Distress Detection
 
 This repository contains the final materials for my independent study project at Texas State University.
